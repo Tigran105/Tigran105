@@ -17,15 +17,14 @@
 
 ### 💼 Experience Highlights
 
-* [cite_start]**Pixeria LAB** (Present): Leading frontend development for web and mobile apps, integrating **3D components with Three.js** (360° Viewers) and building scalable admin panels with Stripe integration[cite: 41, 42, 43, 45].
+* [cite_start]**Pixeria LAB** (Present): Leading frontend development for web and mobile apps, integrating **3D components with Three.js** (360° Viewers) and building scalable admin panels[cite: 41, 42, 43, 45].
 * [cite_start]**GenieWeb**: Developing responsive, mobile-first UIs and integrating REST APIs[cite: 51, 52].
 * [cite_start]**NWS LAB**: Built a dynamic portfolio management platform for algorithmic trading strategies using React and Zustand[cite: 67, 68].
 * [cite_start]**BeeOnCode LLC**: Developed an admin panel for the Ministry of Territorial Administration and Infrastructure of Armenia[cite: 73, 75].
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 My Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigran105&layout=compact&theme=radical)
 
 ---
@@ -35,4 +34,4 @@
 - [cite_start]**Portfolio:** [tigran-dev.com](https://tigran-dev.com) [cite: 5]
 - [cite_start]**Email:** [tigran.sargsyan105@gmail.com](mailto:tigran.sargsyan105@gmail.com) [cite: 7]
 - [cite_start]**Location:** Yerevan, Armenia 🇦🇲 [cite: 9]
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/tigran-sargsyan-front-end) (добавь свою ссылку сюда)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/search/results/all/?keywords=Tigran%20Sargsyan)

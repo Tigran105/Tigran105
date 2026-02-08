@@ -6,7 +6,7 @@ I'm a Front-End Developer with 5+ years of experience building web and mobile ap
 
 ### 🌐 Connect with me
 - **Portfolio:** [tigran-dev.com](https://tigran-dev.com)
-- **LinkedIn:** [linkedin.com/in/tigran-sargsyan](https://linkedin.com/in/tigran-sargsyan)
+- **LinkedIn:** [linkedin.com/in/tigran-sargsyan105](https://linkedin.com/in/tigran-sargsyan105)
 - **Email:** tigran.sargsyan105@gmail.com
 - **Location:** Yerevan, Armenia
 
@@ -98,7 +98,7 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 - 📧 Email: tigran.sargsyan105@gmail.com
 - 🌐 Website: [tigran-dev.com](https://tigran-dev.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/tigran-sargsyan)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/tigran-sargsyan105)
 
 ---
 
